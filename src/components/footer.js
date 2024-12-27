@@ -75,7 +75,7 @@ const Footer = () => {
   <div className="footer-bottom">
     <div className="container">
       <p className="copyright">
-        &copy; 2022 <a href="">traktwin</a>. All rights reserved
+        &copy; 2025 <a href="">traktwin</a>. All rights reserved
       </p>
       <ul className="footer-bottom-list">
         <li>
