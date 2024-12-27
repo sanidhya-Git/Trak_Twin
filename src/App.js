@@ -17,8 +17,7 @@ function App() {
       <BookingBox />
       <PopularDestinations />
       <Packages />
-      <Gallery />
-      <CTA />
+      <Gallery />      
       <Footer />
     </div>
   );
