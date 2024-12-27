@@ -12,8 +12,7 @@ function App() {
   return (
     <div>
       <Header />
-      <Hero />
-     
+      <Hero />     
       <PopularDestinations />
       <Packages />
       <Gallery />      
