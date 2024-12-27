@@ -5,7 +5,7 @@ import Hero from './components/hero';
 import PopularDestinations from './components/populardestination';
 import Packages from './components/package';
 import Gallery from './components/gallery';
-import CTA from './components/cta';
+// import CTA from './components/cta';
 import Footer from './components/footer';
 import BookingBox from './components/bookingbox';
 
