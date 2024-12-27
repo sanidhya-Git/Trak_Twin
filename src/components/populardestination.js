@@ -47,6 +47,7 @@ const PopularDestinations = () => {
                 <div class="card-content">
 
                   <div class="card-rating"><star/>
+                  
                   </div>
 
                   <p class="card-subtitle">
