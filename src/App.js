@@ -1,6 +1,7 @@
 import React from 'react';
 import Header from './components/header';
 import Hero from './components/hero';
+
 import PopularDestinations from './components/populardestination';
 import Packages from './components/package';
 import Gallery from './components/gallery';
@@ -11,7 +12,8 @@ function App() {
   return (
     <div>
       <Header />
-      <Hero />     
+      <Hero />
+      
       <PopularDestinations />
       <Packages />
       <Gallery />      
