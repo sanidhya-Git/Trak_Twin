@@ -3,6 +3,9 @@ import logo from "../assets/images/logo.png";
 import document from "../assets/t2.pdf"; // Adjust the path as necessary
 
 import { PhoneIcon } from "../assets/icons";
+import { LuMail  } from "react-icons/lu";
+import { FaQuestion  } from "react-icons/fa";
+import {MdPrivacyTip} from "react-icons/md";
 
 const Footer = () => {
   return (
@@ -31,13 +34,19 @@ const Footer = () => {
                 </a>
               </li>
               <li className="contact-item flex items-center space-x-2">
-                
+              <LuMail className="w-5 h-5 text-blue-500" />
                 <a href="mailto:traktwin@gmail.com" className="contact-link hover:text-blue-400">
                   traktwin@gmail.com
                 </a>
               </li>
               <li className="contact-item flex items-center space-x-2">
-                
+              <FaQuestion className="w-5 h-5 text-blue-500" />
+                <a href="mailto:traktwin@gmail.com" className="contact-link hover:text-blue-400">
+                  FAQ'S
+                </a>
+              </li>              
+              <li className="contact-item flex items-center space-x-2"> 
+              <MdPrivacyTip className="w-5 h-5 text-blue-500" />               
                 <a href={document} className="contact-link hover:text-blue-400">
                   Privacy and Policy
                 </a>

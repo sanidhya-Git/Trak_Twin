@@ -7,7 +7,10 @@ import { MdStarBorderPurple500 as star} from "react-icons/md";
 import { LuMail  as mail} from "react-icons/lu";
 import { MdOutlineFlightTakeoff as Flight } from "react-icons/md";
 import { FaTrainTram as Train } from "react-icons/fa6";
+import { FaQuestion as Question } from "react-icons/fa";
 import { FaBusSimple as Bus } from "react-icons/fa6";
+
+import { MdPrivacyTip as Privacy} from "react-icons/md";
 
 
 
@@ -22,5 +25,7 @@ export {
     mail,
     Flight, 
     Train, 
-    Bus
+    Bus,
+    Question,
+    Privacy
 }
