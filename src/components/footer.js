@@ -1,5 +1,6 @@
 import React from "react";
-import logo from "../assets/images/logo.png"; // Adjust the path as necessary
+import logo from "../assets/images/logo.png"; 
+import document from "../assets/t2.pdf"; // Adjust the path as necessary
 
 import { PhoneIcon } from "../assets/icons";
 
@@ -35,6 +36,12 @@ const Footer = () => {
                   traktwin@gmail.com
                 </a>
               </li>
+              <li className="contact-item flex items-center space-x-2">
+                
+                <a href={document} className="contact-link hover:text-blue-400">
+                  Privacy and Policy
+                </a>
+              </li>
             </ul>
           </div>
 
@@ -60,23 +67,6 @@ const Footer = () => {
           <p className="text-sm text-white">
             &copy; 2025 Trak Twin. All rights reserved.
           </p>
-          <ul className="flex space-x-4 text-sm text-white">
-            <li>
-              <a href="#" className="hover:text-white">
-                Privacy Policy
-              </a>
-            </li>
-            <li>
-              <a href="#" className="hover:text-white">
-                Terms & Conditions
-              </a>
-            </li>
-            <li>
-              <a href="#" className="hover:text-white">
-                FAQ
-              </a>
-            </li>
-          </ul>
         </div>
       </div>
     </footer>
