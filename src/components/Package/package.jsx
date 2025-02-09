@@ -1,7 +1,5 @@
 import React from 'react';
-import packagee1 from '../assets/images/packege-1.jpg';
-import packagee2 from '../assets/images/packege-2.jpg';
-import packagee3 from '../assets/images/packege-3.jpg';
+import package1 from '../../assets/images/mumbai-1.jpg';
 
 const Packages = () => {
   return (
@@ -18,7 +16,7 @@ const Packages = () => {
   <div class="package-card">
 
     <figure class="card-banner">
-      <img src={packagee1} alt="Experience The Great Holiday On Beach" loading="lazy"/>
+      <img src={package1} alt="Experience The Great Holiday On Beach" loading="lazy"/>
     </figure>
 
     <div class="card-content">
@@ -92,7 +90,7 @@ const Packages = () => {
   <div class="package-card">
 
     <figure class="card-banner">
-      <img src={packagee2} alt="Summer Holiday To The Oxolotan River" loading="lazy"/>
+      <img src={package1} alt="Summer Holiday To The Oxolotan River" loading="lazy"/>
     </figure>
 
     <div class="card-content">
@@ -166,7 +164,7 @@ const Packages = () => {
   <div class="package-card">
 
     <figure class="card-banner">
-      <img src={packagee3} alt="Santorini Island's Weekend Vacation" loading="lazy"/>
+      <img src={package1} alt="Santorini Island's Weekend Vacation" loading="lazy"/>
     </figure>
 
     <div class="card-content">

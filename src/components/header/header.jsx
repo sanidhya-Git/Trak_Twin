@@ -1,7 +1,8 @@
 import React from 'react';
 import { IonIcon } from '@ionic/react'; // Update the import statement
-import logo from '../assets/images/upper logo.png'; // Adjust the path as necessary
-import { InstagramIcon, LinkedInIcon, PhoneIcon, TwitterIcon, YoutubeIcon  } from '../assets/icons';
+import logo from "../../assets/images/upperlogo.png";
+
+import { InstagramIcon, LinkedInIcon, PhoneIcon, TwitterIcon, YoutubeIcon  } from '../../assets/icons';
 
 const Header = () => {
   return (

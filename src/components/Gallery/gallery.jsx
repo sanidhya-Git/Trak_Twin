@@ -1,9 +1,12 @@
 import React from 'react';
-import gallery1 from '../assets/images/gallary1.jpg';
-import gallery2 from '../assets/images/gallary2.jpg';
-import gallery3 from '../assets/images/gallery-3.jpg';
-import gallery5 from '../assets/images/gallary5.png';
-import gallery4 from '../assets/images/gallary4.webp';
+// import {gallery1 , gallery2 ,gallery3, gallery4, gallery5} from '../../assets/images';
+import gallery1 from "../../assets/images/gallary1.jpg";
+import gallery2 from "../../assets/images/gallary2.jpg";
+import gallery3 from "../../assets/images/gallary3.jpg";
+import gallery4 from "../../assets/images/gallary4.webp";
+import gallery5 from "../../assets/images/gallary5.png";
+
+
 const Gallery = () => {
   return (
     <section className="gallery" id="gallery">
