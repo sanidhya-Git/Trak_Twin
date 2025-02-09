@@ -10,56 +10,56 @@ const FAQ = () => {
 
   const faqData = [
     {
-      question: 'What is Rentalog?',
-      answer: 'Rentalog is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
+      question: 'What is Trak Twin?',
+      answer: 'Trak Twin is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
     },
     {
-      question: 'What is Rentalog?',
-      answer: 'Rentalog is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
+      question: 'What is Trak Twin?',
+      answer: 'Trak Twin is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
     },
     {
-      question: 'What is Rentalog?',
-      answer: 'Rentalog is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
+      question: 'What is Trak Twin?',
+      answer: 'Trak Twin is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
     },
     {
-      question: 'What is Rentalog?',
-      answer: 'Rentalog is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
+      question: 'What is Trak Twin?',
+      answer: 'Trak Twin is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
     },
     {
-      question: 'What is Rentalog?',
-      answer: 'Rentalog is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
+      question: 'What is Trak Twin?',
+      answer: 'Trak Twin is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
     },
     {
-      question: 'What is Rentalog?',
-      answer: 'Rentalog is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
+      question: 'What is Trak Twin?',
+      answer: 'Trak Twin is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
     },
     {
-      question: 'What is Rentalog?',
-      answer: 'Rentalog is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
+      question: 'What is Trak Twin?',
+      answer: 'Trak Twin is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
     },
     {
-      question: 'What is Rentalog?',
-      answer: 'Rentalog is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
+      question: 'What is Trak Twin?',
+      answer: 'Trak Twin is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
     },
     {
-      question: 'What is Rentalog?',
-      answer: 'Rentalog is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
+      question: 'What is Trak Twin?',
+      answer: 'Trak Twin is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
     },
     {
-      question: 'What is Rentalog?',
-      answer: 'Rentalog is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
+      question: 'What is Trak Twin?',
+      answer: 'Trak Twin is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
     },
     {
-      question: 'What is Rentalog?',
-      answer: 'Rentalog is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
+      question: 'What is Trak Twin?',
+      answer: 'Trak Twin is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
     },
     {
-      question: 'What is Rentalog?',
-      answer: 'Rentalog is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
+      question: 'What is Trak Twin?',
+      answer: 'Trak Twin is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
     },
     {
-      question: 'What is Rentalog?',
-      answer: 'Rentalog is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
+      question: 'What is Trak Twin?',
+      answer: 'Trak Twin is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
     },
     
 
