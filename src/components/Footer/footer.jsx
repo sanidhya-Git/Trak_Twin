@@ -46,7 +46,7 @@ const Footer = () => {
               </li>
               <li className="contact-item flex items-center space-x-2">
                 <FaQuestion className="w-5 h-5 text-blue-500" />
-                <a href="#" className="contact-link hover:text-blue-400">
+                <a href="#FAQ" className="contact-link hover:text-blue-400">
                   FAQ'S
                 </a>
               </li>              
