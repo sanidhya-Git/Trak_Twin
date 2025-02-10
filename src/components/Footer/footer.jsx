@@ -7,6 +7,7 @@ import { LuMail } from "react-icons/lu";
 import { FaQuestion } from "react-icons/fa";
 import { MdPrivacyTip } from "react-icons/md";
 import logo from "../../assets/images/logo.png";
+import faq from "../../assets/t2.pdf";
 
 
 
@@ -45,13 +46,13 @@ const Footer = () => {
               </li>
               <li className="contact-item flex items-center space-x-2">
                 <FaQuestion className="w-5 h-5 text-blue-500" />
-                <a href="/faq" className="contact-link hover:text-blue-400">
+                <a href="#" className="contact-link hover:text-blue-400">
                   FAQ'S
                 </a>
               </li>              
               <li className="contact-item flex items-center space-x-2"> 
                 <MdPrivacyTip className="w-5 h-5 text-blue-500" />               
-                <a href="/assets/t2.pdf" target="_blank" rel="noopener noreferrer" className="contact-link hover:text-blue-400">
+                <a href={faq} target="_blank" rel="noopener noreferrer" className="contact-link hover:text-blue-400">
                   Privacy and Policy
                 </a>
               </li>
