@@ -11,64 +11,34 @@ const FAQ = () => {
   const faqData = [
     {
       question: 'What is Trak Twin?',
-      answer: 'Trak Twin is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
+      answer: 'Trak Twin is an AI-powered platform designed to enhance solo travel experiences by intelligently matching travellers, planning personalized itineraries, enabling real-time trip adjustments, and fostering community engagement. '
     },
     {
-      question: 'What is Trak Twin?',
-      answer: 'Trak Twin is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
+      question: 'How does Trak Twin work?',
+      answer: 'Trak Twin uses advanced AI to match solo travellers based on shared interests, suggest optimized travel plans, and provide real-time travel support. Connecting like-minded travellers and offering AI-powered recommendations, ensures an enjoyable and safe experience. '
     },
     {
-      question: 'What is Trak Twin?',
-      answer: 'Trak Twin is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
+      question: ' Is Trak Twin available worldwide?',
+      answer: 'Currently, Trak Twin is available in select regions. We are constantly expanding to bring our services to more destinations.'
     },
     {
-      question: 'What is Trak Twin?',
-      answer: 'Trak Twin is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
+      question: ' Do I need to create an account to use Trak Twin? ',
+      answer: 'You must sign up to access personalized matches, AI-powered itinerary planning, and other exclusive features.'
     },
     {
-      question: 'What is Trak Twin?',
-      answer: 'Trak Twin is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
+      question: 'What are the benefits of a premium subscription?',
+      answer: 'Premium users enjoy enhanced AI-powered matchmaking, priority travel assistance, exclusive deals, and in-depth itinerary personalization.'
     },
     {
-      question: 'What is Trak Twin?',
-      answer: 'Trak Twin is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
+      question: 'How does Trak Twin ensure user privacy?',
+      answer: 'We follow strict data privacy policies, encrypting user information and allowing complete control over profile visibility. '
     },
     {
-      question: 'What is Trak Twin?',
-      answer: 'Trak Twin is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
+      question: 'Can I interact with other travelers on Trak Twin? ',
+      answer: 'Yes! Our platform includes group discussions, shared itineraries, and community forums to connect with fellow travelers.'
     },
-    {
-      question: 'What is Trak Twin?',
-      answer: 'Trak Twin is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
-    },
-    {
-      question: 'What is Trak Twin?',
-      answer: 'Trak Twin is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
-    },
-    {
-      question: 'What is Trak Twin?',
-      answer: 'Trak Twin is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
-    },
-    {
-      question: 'What is Trak Twin?',
-      answer: 'Trak Twin is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
-    },
-    {
-      question: 'What is Trak Twin?',
-      answer: 'Trak Twin is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
-    },
-    {
-      question: 'What is Trak Twin?',
-      answer: 'Trak Twin is a free rent management web app designed for landlords to keep track of renter information, rent payment history, and property listings.'
-    },
-    
-
-    
-
-    
-    
-    
    
+
   ];
 
   return (

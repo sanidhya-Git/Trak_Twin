@@ -17,8 +17,7 @@ function App() {
       <Header />
       <Hero />      
       <PopularDestinations />
-      <Packages />
-       
+      <Packages />       
       <Gallery />
       <FaQ/>      
       <Footer />
